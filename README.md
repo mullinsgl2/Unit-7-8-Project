@@ -3,6 +3,7 @@
 #3 User Enumeration
 
 Version used: 4.2
+
 Fixed Version: 
 
 -Steps to recreate-
