@@ -4,7 +4,7 @@
 
 Version used: 4.2
 
-Fixed Version: 
+Fixed Version: 4.2.12
 
 -Steps to recreate-
 
