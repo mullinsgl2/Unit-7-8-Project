@@ -1,6 +1,20 @@
 # Unit-7-8-Project
 
-#3 User Enumeration
+#1 User Enumeration
+
+Version used: 4.2
+
+Fixed Version: 4.2.12
+
+-Steps to recreate-
+
+Import the image to post and edit the text. Where href= ends type out the httml you would like or what action you want to do etc. onmouseover, onerror, onclick...
+
+![XSS](https://user-images.githubusercontent.com/91350664/160225135-30b428c9-d9d4-4a8e-af8c-975a4488d5fc.gif)
+
+References: https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
+
+#2 User Enumeration
 
 Version used: 4.2
 
