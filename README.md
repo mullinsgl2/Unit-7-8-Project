@@ -1,6 +1,6 @@
 # Unit-7-8-Project
 
-#1 User Enumeration
+#1 XSS
 
 Version used: 4.2
 
